@@ -2,4 +2,7 @@
 Here the code is private. you can see UI of this project
 
 Home page
-![Screenshot (386)](https://user-images.githubusercontent.com/66405570/149519706-1224e7fc-95c3-4e33-9061-98ae1127b705.png)
+
+
+![Screenshot (386)](https://user-images.githubusercontent.com/66405570/149519928-395c0eac-61f1-4b3a-b851-c5d6c2aaa2c5.png)
+

@@ -19,7 +19,7 @@ Confirm records
 ![Screenshot (389)](https://user-images.githubusercontent.com/66405570/149520681-98ace1c5-640c-48ef-8697-7380d58fa2e0.png)
 
 
-Retrive patient retrive by patient bill number for assign medical trst result
+Retrive patient record by patient bill number for assign medical test result
 
 ![Screenshot (390)](https://user-images.githubusercontent.com/66405570/149520756-2858ed24-79ba-4838-b135-01a5570d308e.png)
 

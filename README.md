@@ -4,5 +4,5 @@ Here the code is private. you can see UI of this project
 Home page
 
 
-![Screenshot (386)](https://user-images.githubusercontent.com/66405570/149519928-395c0eac-61f1-4b3a-b851-c5d6c2aaa2c5.png)
+![Screenshot (386)](https://user-images.githubusercontent.com/66405570/149520082-5763d7f5-a225-423d-ab5b-0a1580697fc1.png)
 

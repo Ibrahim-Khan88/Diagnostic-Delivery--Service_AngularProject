@@ -1,4 +1,4 @@
-# Diagnostic-Delivery--Service_AngularProject
+# Diagnostic-Delivery-Service_Spring_Boot__AngularProject
 Here the code is private. you can see UI of this project
 
 Home page
